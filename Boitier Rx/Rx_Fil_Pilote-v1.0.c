@@ -6,7 +6,7 @@
  Change History :
  ---------------
  * Rev   Date         Description
- * 1.0   xx/11/2014   Initial release
+ * 1.0   16/10/2015   Initial release
  
  
  Configuration Hard:
@@ -110,14 +110,7 @@
 
 
 // CONSTANTES
-#define CMD_DEBUGG      0x436F4D66              // Trame envoyé par le Stimulis de Test
-//#define CONF        	0x436F4E66
-//#define ECO         	0x4563436F
-//#define HORS_GEL    	0x4F72476C
-//#define ARRET       	0x41724574
 #define ARRET		0x2C674E81
-#define ARRET_BIS	0x2C674E80
-#define ARRET_TER	0x2C674E82
 #define CONF		0x2C674E90
 #define ECO             0x2C674E91
 #define HORS_GEL	0x2C674E92
@@ -518,7 +511,7 @@ char* StrLg_to_Str(unsigned long data)
 
 void main()
 {
-    int j;				// Compteur d?impulsion. Si la trame est composé de 32bits, alors j = 64 au maximum.
+    int j;				// Compteur d'impulsion. Si la trame est composé de 32bits, alors j = 64 au maximum.
     int badData = FALSE;		// Variable qui déclare si la trame encours de décodage est toujours cohérente
     unsigned long data; 		// Contient la trame reçu et décodé. Contient 32bits
 
