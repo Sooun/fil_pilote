@@ -30,7 +30,7 @@ Le protocole Home Easy utilisé ici est exactement le même que celui des produi
 
 Ce projet utilise les outils suivants:
  * [Microchip MPLAB X][2] (v2.15 ou plus récent)
- * [Microchip XC8 Compiler][3] (v3.47 ou plus récent)
+ * [Microchip XC8 Compiler][3] (v1.35 ou plus récent)
  
 [1]: http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en546902 "PIC 16F1825"
 [2]: http://www.microchip.com/pagehandler/en-us/family/mplabx/ "MPLAB X"
