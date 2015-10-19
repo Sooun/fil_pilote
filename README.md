@@ -1,8 +1,8 @@
 # fil_pilote
 Ce projet est basé sur la programmation en language C de microcontroleur Microchip 16F1825.
 
-Ce dispositif est une passerelle sans fils basé sur une communication 433MHz utilisant le protocole HomeEasy (Chacon) entre un générateur de « fil pilote »  type programmateur d’un côté, et d’un ou plusieurs radiateurs électrique de l’autre.
- 
+Ce dispositif est une passerelle sans fils basé sur une communication 433MHz utilisant le protocole Home Easy entre un générateur de « fil pilote »  type programmateur d’un côté, et d’un ou plusieurs radiateurs électrique de l’autre.
+
 Le but de ce dispositif est de piloter des radiateurs avec un programmateur hebdomadaire  en utilisant l’interface du « fil pilote », mais sans fil...
 Dans une installation conventionnelle, le programmateur est relié physiquement aux différents radiateurs au travers d’un fil, dit « pilote » qui transmet l’ordre de commande: 
 
@@ -21,3 +21,4 @@ Le dispositif se propose de remplacer cette liaison filaire par une liaison sans
   liaison RF. Il se charge ensuite de retranscrire l’ordre sur l’interface fils pilote local à 
   destination du radiateur sur lequel il est raccordé.
 
+Le protocole Home Easy utilisé ici est exactement le même que celui des produits D-IO par Chacon.
