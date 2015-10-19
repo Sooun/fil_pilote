@@ -1,5 +1,8 @@
-# fil_pilote
-Ce projet est basé sur la programmation en language C de microcontroleur Microchip 16F1825.
+Projet fil pilote en 433MHz
+===========================
+### Description:
+
+Ce projet est basé sur la programmation en language C de microcontroleur Microchip [PIC16F1825][1].
 
 Ce dispositif est une passerelle sans fils basé sur une communication 433MHz utilisant le protocole Home Easy entre un générateur de « fil pilote »  type programmateur d’un côté, et d’un ou plusieurs radiateurs électrique de l’autre.
 
@@ -22,3 +25,13 @@ Le dispositif se propose de remplacer cette liaison filaire par une liaison sans
   destination du radiateur sur lequel il est raccordé.
 
 Le protocole Home Easy utilisé ici est exactement le même que celui des produits D-IO par Chacon.
+
+### Prérequis:
+
+Ce projet utilise les outils suivants:
+ * [Microchip MPLAB X][2] (v2.15 ou plus récent)
+ * [Microchip XC8 Compiler][3] (v3.47 ou plus récent)
+ 
+[1]: http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en546902 "PIC 16F1825"
+[2]: http://www.microchip.com/pagehandler/en-us/family/mplabx/ "MPLAB X"
+[3]: http://www.microchip.com/pagehandler/en_us/devtools/mplabxc/ "MPLAB XC Compilers"
