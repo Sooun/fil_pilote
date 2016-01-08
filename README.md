@@ -26,7 +26,10 @@ Le protocole Home Easy utilisé ici est exactement le même que celui des produi
 Ce projet utilise les outils suivants:
  * [Microchip MPLAB X][2] (v2.15 ou plus récent)
  * [Microchip XC8 Compiler][3] (v1.32 ou plus récent)
+ * [DesignSpark PCB][4] (v7.1 ou plus récent)
+ 
  
 [1]: http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en546902 "PIC 16F1825"
 [2]: http://www.microchip.com/pagehandler/en-us/family/mplabx/ "MPLAB X"
 [3]: http://www.microchip.com/pagehandler/en_us/devtools/mplabxc/ "MPLAB XC Compilers"
+[4]: http://www.rs-online.com/designspark/electronics/eng/page/designspark-pcb-home-page "DesignSpark PCB"
