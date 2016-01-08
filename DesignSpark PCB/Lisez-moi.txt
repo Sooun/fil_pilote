@@ -1,0 +1,22 @@
+Voici la procédure pour ajouter les librairies de composants dans DesignSpark:
+
+1°) Copier  tous les fichiers du répertoires "Librairies" dans:
+
+C:\Users\Public\Documents\DesignSpark PCB 7.1\Library\User
+(A adapter par chacun suivant le chemin choisi pour les librairie standard au moment de l'install de DesignSpark)
+
+2°) Dans DesignSpark, aller dans File -> Libraries
+Dans l'onglet 'Components', sélectionner la librairie "Rx Board.cml" dans le menu déroulant.
+Cocher l'option 'Preview'.
+Vérifier que les différents composants apparaissent bien la fenêtre de prévisualisation.
+
+=> C'est Fini! 
+
+Vous pouvez maintenant ouvrir le ficher projet (.prj)
+
+Remarque:
+---------
+Une autre solution consiste à ajouter chemin du dossier "Librairies" dans Library Manager:
+Dans DesignSpark, aller dans File -> Libraries
+Dans l'onglet 'Folders', cliquer sur le bouton 'Add'.
+Spécifier le chemin dans laquelle se trouve la librairie à ajouter
