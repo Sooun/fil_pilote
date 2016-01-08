@@ -1,0 +1,27 @@
++V
+-V
+0V
+A3
+Aurel-RX-433Mhz||#DIL=8||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+Bornier_2V 2.54mm||#USER=2||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+Bornier_3V-5mm||#DIL=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Capacritor_Pol||#DSCV=2||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Value=100uF||@Other Part Number=||@3D Package=||@Height=
+Condensateur CMS 1206||#CAP_C1206-L=2||@Vendor=KEMET||@Manufacturer_Part_Number=C1206C104K5RACTU||@HEADER_SECTION=Passives||@HEADER_GROUP=Capacitors||@R-S_Number=2644179||@Manufacturer_Name=Kemet Electronics||@Mounting=Surface Mount||@Tolerance=10%||@Voltage=50V dc||@Package/Case=1206||@Current Rating=Unknown||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Condensateur X2 _entraxe 15mm||#CAP_7.0 X 12.5 X 18.0=2||@Vendor=EPCOS||@Manufacturer_Part_Number=B32922C3224K||@HEADER_SECTION=Passives||@HEADER_GROUP=Capacitors||@R-S_Number=334849||@Manufacturer_Name=EPCOS||@Mounting=Through Hole||@Tolerance=10%||@Voltage=305V ac||@Package/Case=Unknown||@Current Rating=Unknown||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+CONN_SIL_1||#DIL=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+CONN_SIL_5||#DSC=5||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Diode RS1G-E3/61T||#DIODE_DO214AC-L=2||@Vendor=Vishay||@Manufacturer_Part_Number=RS1G-E3/61T||@Supersection=Semiconductors||@Section=Discretes||@Family=Rectifier||@Manufacturer_Name=Vishay||@RS Part Number=7103106||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Diode Zenzer DZ2406200L||#USER=2||@Vendor=Vishay||@Manufacturer_Part_Number=ZMY6V2-GS08||@Supersection=Semiconductors||@Section=Discretes||@Family=Zener||@Manufacturer_Name=Vishay||@RS Part Number=7104477||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Fuse Rectangular||#USER=2||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+GND
+IL410||#DIP6_IL=6||@Vendor=Vishay||@Manufacturer_Part_Number=IL410||@Supersection=Unknown||@Section=Unknown||@Family=Unknown||@Manufacturer_Name=Vishay||@RS Part Number=6998174||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+LED_3mm||#DIL=2||@RS Part Number=||@Allied_Number=||@Mfr=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Component Height=||@Datasheet=||@Package=||@Other Part Number=||@3D Package=||@Height=
+LM3480IM3-5.0/NOPB||#MF03Al=3||@Manufacturer_Part_Number=LM3480IM3-5.0/NOPB||@Vendor=National Semiconductor||@Section=Power Management||@Family=Linear Regulator||@Manufacturer_Name=National Semiconductor||@RS Part Number=5045115||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=||@User=Regulateur 5V
+PIC16F1825-I/SL||#SOIC14-N_MC-L=14||@Vendor=Microchip||@Manufacturer_Part_Number=PIC16F1824-I/SL||@Manufacturer_Name=Microchip Technology||@RS Part Number=7154299||@Allied_Number=Unknown||@Other Part Number=||@3D Package=||@Height=
+Pont de diode CMS - MB6S-E3||#TO-269AA-L=4||@Vendor=Vishay||@Manufacturer_Part_Number=MB6S-E3||@Manufacturer_Name=Vishay||@RS Part Number=6290322||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Resistance CMS 1206||#RES_ERA8A_1206-L=2||@Vendor=Panasonic||@Manufacturer_Part_Number=ERA8AEB152V||@Family=Surface Mount, Fixed||@Manufacturer_Name=Panasonic||@RS Part Number=6696559||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+RES_bobine_1W||#USER=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Signal_In
+Signal_Out
+Switch 3.5mmx6.5mm||#USER=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Vss
