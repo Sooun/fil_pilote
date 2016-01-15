@@ -6,7 +6,7 @@ C:\Users\Public\Documents\DesignSpark PCB 7.1\Library\User
 (A adapter par chacun suivant le chemin choisi pour les librairie standard au moment de l'install de DesignSpark)
 
 2°) Dans DesignSpark, aller dans File -> Libraries
-Dans l'onglet 'Components', sélectionner la librairie "Rx Board.cml" dans le menu déroulant.
+Dans l'onglet 'Components', sélectionner la librairie "Fil_pilote433Mhz.cml" dans le menu déroulant.
 Cocher l'option 'Preview'.
 Vérifier que les différents composants apparaissent bien la fenêtre de prévisualisation.
 

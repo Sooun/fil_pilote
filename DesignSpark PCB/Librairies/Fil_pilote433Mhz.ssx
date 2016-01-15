@@ -5,22 +5,27 @@
 5P||5
 A3||0
 Aurel-RX433Mhz||8
+Aurel-TX433Mhz||7
 Bornier 2V||2
+Bornier 6Voies||6
 Bornier_3V||3
 CAPH||2
-Capicitor Electrolyte||2
 CP||2
 DEL||2
 DIODE||2
 DIODE ZENER||2
+Embase Alim DC||3
 FUSE||2
 GND||1
 IL410||6
+ILD74||8
 LM3480IM3-5.0||3
 pic16f1825-i/sl||14
 RES||2
 Resistor||2
 Signal_In||1
 Signal_Out||1
+SW4-2POS-2||4
 SWITCH_3.5mmx6.5mm||2
+SWITCH_BP 90°||4
 TO-269AA||4

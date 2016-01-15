@@ -1,19 +1,27 @@
 1||1
 5||5
 Aurel-RX-433mhz||8
+Aurel-TX-433mhz||7
 Bornier 2V 2.54mm||2
+Bornier 6V -pas3.81mm||6
 Bornier_3V-5mm||3
 CAPP2V||2
 CAP_7.0 X 12.5 X 18.0||2
+CAP_9.0 X 17 X 18.0 - Couché||2
 CAP_C1206-L||2
 DIODE_DO214AC-L||2
 DIODE_ZENER_PANASONIC||2
 DIP6_IL||6
+DIP8_IL||8
+Embase Alim 1.3mm||3
 LED_3mm||2
 MF03Al||3
 Porte_Fusible||2
 RES_Bobiné_1W||2
+RES_Bobiné_2W||2
 RES_ERA8A_1206-L||2
 SOIC14-N_MC-L||14
+SWDIP4_300X303P100||4
 SWITCH_3.5x6.5||2
+SWITCH_PB 90°||4
 TO-269AA-L||4
