@@ -30,6 +30,6 @@ Ce projet utilise les outils suivants:
  
  
 [1]: http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en546902 "PIC 16F1825"
-[2]: http://www.microchip.com/pagehandler/en-us/family/mplabx/ "MPLAB X"
-[3]: http://www.microchip.com/pagehandler/en_us/devtools/mplabxc/ "MPLAB XC Compilers"
+[2]: http://www.microchip.com/mplab/mplab-x-ide "MPLAB X"
+[3]: http://www.microchip.com/mplab/compilers "MPLAB XC Compilers"
 [4]: http://www.rs-online.com/designspark/electronics/eng/page/designspark-pcb-home-page "DesignSpark PCB"
