@@ -7,7 +7,8 @@
  ---------------
  * Rev   Date         Description
  * 1.0   16/10/2015   Initial release
-
+ * 1.1   13/04/2018   Modification de la trame HORS_GEL pour facilité intégration 
+                      dans domoticz
   
  Configuration Hard:
  -------------------
@@ -110,7 +111,7 @@
 #define ARRET		0x2C674E81
 #define CONF		0x2C674E90
 #define ECO             0x2C674E91
-#define HORS_GEL	0x2C674E92
+#define HORS_GEL	0x2C674E80
 
 #define NB_TRAME 5      // Nombre de trame envoyé
 
